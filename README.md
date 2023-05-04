@@ -36,5 +36,5 @@ Please make sure to update tests as appropriate.
 
 ## Acknowledgments
 
-- Thanks to Wes Bos for the inspiration and guidance
-- Thanks to the contributors of the Freesound project for providing the drum sounds
+- Thanks to Wes Bos for the inspiration and guidance.
+- Thanks to the contributors of the Freesound project for providing the drum sounds.
