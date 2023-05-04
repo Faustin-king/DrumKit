@@ -18,7 +18,7 @@ This is a simple web-based drum kit application that allows users to play drum s
 
 ## How to Use
 
-1. Clone this repository to your local machine
+1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser
 3. Press the corresponding keys on your keyboard or click on the buttons to play sounds
 
